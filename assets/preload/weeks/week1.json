@@ -1,0 +1,48 @@
+{
+	"storyName": "FFV spittin fire",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"ffv",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ultra Battle",
+			"ffv",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Spittin Heat",
+			"ffv",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Big Vibin",
+			"ffv",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "FFV's Week"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgppls.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGppls0000" x="0" y="0" width="1518" height="694"/>
+	<SubTexture name="BGppls0001" x="0" y="0" width="1518" height="694"/>
+	<SubTexture name="BGppls0002" x="1518" y="0" width="1518" height="688" frameX="0" frameY="-6" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0003" x="1518" y="0" width="1518" height="688" frameX="0" frameY="-6" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0004" x="0" y="694" width="1517" height="691" frameX="0" frameY="-3" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0005" x="0" y="694" width="1517" height="691" frameX="0" frameY="-3" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0006" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0007" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0008" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0009" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0010" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0011" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0012" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0013" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0014" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0015" x="0" y="0" width="1518" height="694"/>
+	<SubTexture name="BGppls0016" x="0" y="0" width="1518" height="694"/>
+	<SubTexture name="BGppls0017" x="1518" y="0" width="1518" height="688" frameX="0" frameY="-6" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0018" x="1518" y="0" width="1518" height="688" frameX="0" frameY="-6" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0019" x="0" y="694" width="1517" height="691" frameX="0" frameY="-3" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0020" x="0" y="694" width="1517" height="691" frameX="0" frameY="-3" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0021" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0022" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0023" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0024" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0025" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0026" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0027" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0028" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+	<SubTexture name="BGppls0029" x="1517" y="694" width="1517" height="694" frameX="0" frameY="0" frameWidth="1518" frameHeight="694"/>
+</TextureAtlas>

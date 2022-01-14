@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGBop0000" x="0" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0001" x="0" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0002" x="1289" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0003" x="1289" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0004" x="2578" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0005" x="2578" y="0" width="1289" height="731"/>
+	<SubTexture name="BGBop0006" x="0" y="731" width="1289" height="731"/>
+	<SubTexture name="BGBop0007" x="0" y="731" width="1289" height="731"/>
+	<SubTexture name="BGBop0008" x="0" y="731" width="1289" height="731"/>
+</TextureAtlas>
